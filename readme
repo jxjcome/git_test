@@ -3,3 +3,5 @@ This is to demo how to use git
 Git is a distributed version of control system
 
 Git is free software distributed usder the GPL
+
+Git has a mutable index called stage
